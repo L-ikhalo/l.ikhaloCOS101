@@ -1,0 +1,2 @@
+Welcome to COS101!
+I am learning Rust file input and output.
